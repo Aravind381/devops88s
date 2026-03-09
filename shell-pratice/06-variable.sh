@@ -1,8 +1,8 @@
 #!/bin/bash
 
-STARTTIME=$(date +%5)
+START_TIME=$(date +%5)
 
-echo "script exectued at: $STARTTIME"
+echo "script exectued at: $START_TIME"
 
 sleep 10
 
